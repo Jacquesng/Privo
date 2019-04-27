@@ -1,0 +1,8 @@
+name: Dilligence Incternational Group
+filePrefix: DIG
+tickets:
+  github:
+    repo: https://github.com/Challaris/strongdm-comply.git
+    token: a958e3c290ed9625ad9145ac84168d191e7bb6ea
+    username: dolapolisa
+approvedBranch: ""
