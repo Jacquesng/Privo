@@ -1,11 +1,11 @@
 % Access Onboarding and Termination Policy
-% Dilligence Incternational Group
+% Diligence International Group
 % April 2019
 
 ---
 header-includes: yes
 head-content: "Access Onboarding and Termination Policy"
-foot-content: "Dilligence Incternational Group confidential 2019"
+foot-content: "Diligence International Group confidential 2019"
 ---
 
 |Standard|Controls Satisfied|
