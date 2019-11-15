@@ -1,11 +1,11 @@
 % Availability Policy
-% Dilligence Incternational Group
-% April 2019
+% Privo IT, LLC
+% November 2019
 
 ---
 header-includes: yes
 head-content: "Availability Policy"
-foot-content: "Dilligence Incternational Group confidential 2019"
+foot-content: "Privo IT 2019"
 ---
 
 |Standard|Controls Satisfied|
