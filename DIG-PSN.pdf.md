@@ -1,18 +1,18 @@
 % Products and Services Narrative
-% Dilligence Incternational Group
+% Privo IT, LLC
 % April 2019
 
 ---
 header-includes: yes
 head-content: "Products and Services Narrative"
-foot-content: "Dilligence Incternational Group confidential 2019"
+foot-content: "Privo IT, LLC confidential 2019"
 ---
 
 
 
 |Date|Comment|
 |---+--------------------------------------------|
-| Jun 1 2018 | Initial document |
+| Sept 15 2019 | Initial document |
 
 Table: Document history
 

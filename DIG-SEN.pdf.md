@@ -1,11 +1,11 @@
 % Security Architecture Narrative
-% Dilligence Incternational Group
+% Privo IT, LLC
 % April 2019
 
 ---
 header-includes: yes
 head-content: "Security Architecture Narrative"
-foot-content: "Dilligence Incternational Group confidential 2019"
+foot-content: "Privo IT, LLC confidential 2019"
 ---
 
 |Standard|Controls Satisfied|
@@ -17,7 +17,7 @@ Table: Control satisfaction
 
 |Date|Comment|
 |---+--------------------------------------------|
-| Jun 1 2018 | Initial document |
+| Sept 15 2019 | Initial document |
 
 Table: Document history
 
@@ -29,11 +29,11 @@ Table: Document history
 
 Here we narrate why our org satisfies the control keys listed in the YML block
 
-# Dilligence Incternational Group Product Architecture
+# Privo IT, LLC Product Architecture
 
 Describe product architecture here, emphasizing security implications
 
-# Dilligence Incternational Group Infrastructure
+# Privo IT, LLC Infrastructure
 
 ## Product Infrastructure
 
@@ -43,20 +43,20 @@ Describe product infrastructure, emphasizing security measures
 
 - **AWS root account** access is granted only to the CTO and CEO
 - **AWS IAM** access is granted to to a limited group of **Operators**
-- **Dilligence Incternational Group SSH** access is granted to a limited group of **Operators**
-- **Dilligence Incternational Group DB** access is granted to a limited group of **Data Operators**
+- **Privo IT, LLC SSH** access is granted to a limited group of **Operators**
+- **Privo IT, LLC DB** access is granted to a limited group of **Data Operators**
 
 ## IT Infrastructure
 
-Dilligence Incternational Group uses the following cloud services for its internal infrastructure:
+Privo IT, LLC uses the following cloud services for its internal infrastructure:
 
 - List cloud services
 
-Access to these cloud services is limited according to the role of the Dilligence Incternational Group employee and is reviewed quarterly as well as via regular onboarding/offboarding tasks for new and departing employees.
+Access to these cloud services is limited according to the role of the Privo IT, LLC employee and is reviewed quarterly as well as via regular onboarding/offboarding tasks for new and departing employees.
 
-# Dilligence Incternational Group Workstations
+# Privo IT, LLC Workstations
 
-Dilligence Incternational Group workstations are hardened against logical and physical attack by the following measures:
+Privo IT, LLC workstations are hardened against logical and physical attack by the following measures:
 
 - operating system must be within one generation of current
 - full-disk encryption
@@ -67,25 +67,25 @@ Workstation compliance with these measures is evaluated on a quarterly basis.
 
 ## Remote Access
 
-Many Dilligence Incternational Group employees work remotely on a regular basis and connect to production and internal IT systems via the same methods as those employees connecting from the Dilligence Incternational Group physical office, i.e., direct encrypted access to cloud services. It is the employee's responsibility to ensure that only authorized personnel use Dilligence Incternational Group resources and access Dilligence Incternational Group systems.
+Many Privo IT, LLC employees work remotely on a regular basis and connect to production and internal IT systems via the same methods as those employees connecting from the Privo IT, LLC physical office, i.e., direct encrypted access to cloud services. It is the employee's responsibility to ensure that only authorized personnel use Privo IT, LLC resources and access Privo IT, LLC systems.
 
 # Access Review
 
-Access to Dilligence Incternational Group infrastructure, both internal and product, is reviewed quarterly and inactive users are removed. Any anomalies are reported to the security team for further investigation. When employees start or depart, an onboarding/offboarding procedure is followed to provision or deprovision appropriate account access.
+Access to Privo IT, LLC infrastructure, both internal and product, is reviewed quarterly and inactive users are removed. Any anomalies are reported to the security team for further investigation. When employees start or depart, an onboarding/offboarding procedure is followed to provision or deprovision appropriate account access.
 
 # Penetration Testing
 
-Dilligence Incternational Group commissions an external penetration test on an annual basis. All findings are immediately reviewed and addressed to the satisfaction of the CTO/CEO.
+Privo IT, LLC commissions an external penetration test on an annual basis. All findings are immediately reviewed and addressed to the satisfaction of the CTO/CEO.
 
-# Dilligence Incternational Group Physical Security
+# Privo IT, LLC Physical Security
 
-Dilligence Incternational Group has one physical location, in San Francisco, CA. Key issuance is tracked by the Office Physical Security Policy Ledger. Office keys are additionally held by the lessor, property management, and custodial staff. These keys are not tracked by the Office Physical Security Policy Ledger. Dilligence Incternational Group managers regularly review physical access privileges.
+Privo IT, LLC has one physical location, in San Francisco, CA. Key issuance is tracked by the Office Physical Security Policy Ledger. Office keys are additionally held by the lessor, property management, and custodial staff. These keys are not tracked by the Office Physical Security Policy Ledger. Privo IT, LLC managers regularly review physical access privileges.
 
-Dilligence Incternational Group infrastructure is located within AWS. Dilligence Incternational Group does not have physical access to AWS infrastructure.
+Privo IT, LLC infrastructure is located within AWS. Privo IT, LLC does not have physical access to AWS infrastructure.
 
 # Risk Assessment
 
-Dilligence Incternational Group updates its Cyber Risk Assessment on an annual basis in order to keep pace with the evolving threat landscape. The following is an inventory of adversarial and non-adversarial threats assessed to be of importance to Dilligence Incternational Group.
+Privo IT, LLC updates its Cyber Risk Assessment on an annual basis in order to keep pace with the evolving threat landscape. The following is an inventory of adversarial and non-adversarial threats assessed to be of importance to Privo IT, LLC.
 
 ## Adversarial Threats
 

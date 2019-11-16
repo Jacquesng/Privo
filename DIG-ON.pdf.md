@@ -1,11 +1,11 @@
 % Organizational Narrative
-% Dilligence Incternational Group
+% Privo IT, LLC
 % April 2019
 
 ---
 header-includes: yes
 head-content: "Organizational Narrative"
-foot-content: "Dilligence Incternational Group confidential 2019"
+foot-content: "Privo IT, LLC confidential 2019"
 ---
 
 |Standard|Controls Satisfied|
@@ -17,7 +17,7 @@ Table: Control satisfaction
 
 |Date|Comment|
 |---+--------------------------------------------|
-| Jun 1 2018 | Initial document |
+| Sept 15 2019 | Initial document |
 
 Table: Document history
 
@@ -27,17 +27,17 @@ Table: Document history
 
 # Organizational Narrative
 
-The following provides a description of the corporate a management structure of Dilligence Incternational Group.
+The following provides a description of the corporate a management structure of Privo IT, LLC.
 
-The intent of this description is to establish both the legal jurisdiction and corporate cultural norms that serve as the foundation for Dilligence Incternational Group's compliance program.
+The intent of this description is to establish both the legal jurisdiction and corporate cultural norms that serve as the foundation for Privo IT, LLC's compliance program.
 
 # Entity Type
 
-Dilligence Incternational Group is a Delaware C-Corporation headquartered in San Francisco, California. Dilligence Incternational Group was established in 1970.
+Privo IT, LLC is a Delaware C-Corporation headquartered in San Francisco, California. Privo IT, LLC was established in 1970.
 
 # Integrity and Ethics
 
-The Directors and Executives of Dilligence Incternational Group aspire to and demonstrate standards of ethics and integrity consistent with professional norms in American corporate environments.
+The Directors and Executives of Privo IT, LLC aspire to and demonstrate standards of ethics and integrity consistent with professional norms in American corporate environments.
 
 Chief among these standards is a commitment to honesty in interactions with and among managers, directors, employees, contractors, customers, and other stakeholders.
 
@@ -47,7 +47,7 @@ The Board of Directors appoints and oversees the Chief Executive Officer (CEO).
 
 # Organizational Structure
 
-Dilligence Incternational Group is composed of 7 primary divisions:
+Privo IT, LLC is composed of 7 primary divisions:
 
   * Sales
   * Marketing
@@ -65,7 +65,7 @@ Work is distributed to each division via Objectives set by the respective divisi
 
 # Risk to Objectives
 
-Dilligence Incternational Group seeks to manage risk to Objectives through professional management strategies and tactics, including:
+Privo IT, LLC seeks to manage risk to Objectives through professional management strategies and tactics, including:
 
  * Rigorous hiring practices
  * Employee performance reviews
@@ -74,7 +74,7 @@ Dilligence Incternational Group seeks to manage risk to Objectives through profe
 
 # Fraud Risk to Objectives
 
-Dilligence Incternational Group acknowledges the possibility that fraud may imperil corporate objectives. Dilligence Incternational Group undertakes various activities to manage fraud risk, including:
+Privo IT, LLC acknowledges the possibility that fraud may imperil corporate objectives. Privo IT, LLC undertakes various activities to manage fraud risk, including:
 
  * Conducting regular financial audits
  * Adhering to financial control principles

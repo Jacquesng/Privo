@@ -1,11 +1,11 @@
 % Control Environment Narrative
-% Dilligence Incternational Group
+% Privo IT, LLC
 % April 2019
 
 ---
 header-includes: yes
 head-content: "Control Environment Narrative"
-foot-content: "Dilligence Incternational Group confidential 2019"
+foot-content: "Privo IT, LLC confidential 2019"
 ---
 
 |Standard|Controls Satisfied|
@@ -17,7 +17,7 @@ Table: Control satisfaction
 
 |Date|Comment|
 |---+--------------------------------------------|
-| Jun 1 2018 | Initial document |
+| Sept 15 2019 | Initial document |
 
 Table: Document history
 
@@ -27,13 +27,13 @@ Table: Document history
 
 # Control Environment Narrative
 
-The following provides a description of the control structure of Dilligence Incternational Group.
+The following provides a description of the control structure of Privo IT, LLC.
 
-The intent of this description is to enumerate the logical, policy, and procedural controls that serve to monitor Dilligence Incternational Group's application and data security. Changes uncovered by these procedures in the logical, policy, procedural, or customer environment are addressed by remediations specific to the noted change.
+The intent of this description is to enumerate the logical, policy, and procedural controls that serve to monitor Privo IT, LLC's application and data security. Changes uncovered by these procedures in the logical, policy, procedural, or customer environment are addressed by remediations specific to the noted change.
 
 # Logical Controls
 
-Dilligence Incternational Group employs several logical controls to protect confidential data and ensure normal operation of its core product.
+Privo IT, LLC employs several logical controls to protect confidential data and ensure normal operation of its core product.
 
 - Mandatory data encryption at rest and in motion
 - Multi-factor authentication for access to cloud infrastructure
@@ -42,7 +42,7 @@ Dilligence Incternational Group employs several logical controls to protect conf
 
 # Policy Controls
 
-Dilligence Incternational Group employs several policy controls to protect confidential data and ensure normal operation of its core product. These policies include, but are not limited to:
+Privo IT, LLC employs several policy controls to protect confidential data and ensure normal operation of its core product. These policies include, but are not limited to:
 
 - Access Control Policy
 - Encryption Policy
@@ -54,7 +54,7 @@ Dilligence Incternational Group employs several policy controls to protect confi
 
 # Procedural Controls
 
-Dilligence Incternational Group has numerous scheduled procedures to monitor and tune the effectiveness of ongoing security controls, and a series of event-driven procedures to respond to security-related events.
+Privo IT, LLC has numerous scheduled procedures to monitor and tune the effectiveness of ongoing security controls, and a series of event-driven procedures to respond to security-related events.
 
 TODO: Finalize these lists
 
@@ -85,15 +85,15 @@ TODO: Finalize these lists
 
 # Remediations
 
-Dilligence Incternational Group uses the outcomes of the aforementioned controls and procedures to identify shortcomings in the existing control environment. Once identified, these shortcomes are remediated by improving existing controls and procedures, and creating new controls and procedures as needed.
+Privo IT, LLC uses the outcomes of the aforementioned controls and procedures to identify shortcomings in the existing control environment. Once identified, these shortcomes are remediated by improving existing controls and procedures, and creating new controls and procedures as needed.
 
 # Communications
 
-Dilligence Incternational Group communicates relevant information regarding the functioning of the above controls with internal and external parties on an as-needed basis and according to statutory requirements.
+Privo IT, LLC communicates relevant information regarding the functioning of the above controls with internal and external parties on an as-needed basis and according to statutory requirements.
 
 ## Internal
 
-Dilligence Incternational Group communicates control outcomes, anomalies, and remediations internally using the following channels:
+Privo IT, LLC communicates control outcomes, anomalies, and remediations internally using the following channels:
 
 - Slack
 - Email
@@ -101,5 +101,5 @@ Dilligence Incternational Group communicates control outcomes, anomalies, and re
 
 ## External
 
-Dilligence Incternational Group communicates relevant control-related information to external parties including shareholders, customers, contractors, regulators, and government entities as needed according to contractual and regulatory/statutory obligation.
+Privo IT, LLC communicates relevant control-related information to external parties including shareholders, customers, contractors, regulators, and government entities as needed according to contractual and regulatory/statutory obligation.
 

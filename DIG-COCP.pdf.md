@@ -1,11 +1,11 @@
 % Code of Conduct Policy
-% Dilligence Incternational Group
+% Privo IT, LLC
 % April 2019
 
 ---
 header-includes: yes
 head-content: "Code of Conduct Policy"
-foot-content: "Dilligence Incternational Group confidential 2019"
+foot-content: "Privo IT, LLC confidential 2019"
 ---
 
 |Standard|Controls Satisfied|
@@ -17,7 +17,7 @@ Table: Control satisfaction
 
 |Date|Comment|
 |---+--------------------------------------------|
-| Jun 1 2018 | Initial document |
+| Sept 15 2019 | Initial document |
 
 Table: Document history
 
